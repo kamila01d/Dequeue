@@ -1,4 +1,7 @@
-Aby uruchomić program należy wpisać w terminalu polecenie:
+deque.h contains an impelementation of dequeue. It has basic methods. 
+
+
+To run program using makefile type:
                 make run
-Aby wyczyścić katalog z plików wyknowyalnych nalezy wpisać:
+To clean the folder from executables:
                 make clean
