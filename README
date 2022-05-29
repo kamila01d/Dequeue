@@ -1,7 +1,6 @@
-#Dequeue
+# Dequeue
 
 Dequeue implementation in C++ with its basic methods. 
-
 
 To run program using makefile type:
                 make run
