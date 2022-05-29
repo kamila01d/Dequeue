@@ -1,4 +1,6 @@
-deque.h contains an impelementation of dequeue. It has basic methods. 
+# Dequeue
+
+Dequeue implementation in C++ with its basic methods. 
 
 
 To run program using makefile type:
