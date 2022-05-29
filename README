@@ -3,6 +3,6 @@
 Dequeue implementation in C++ with its basic methods. 
 
 To run program using makefile type:
-               ``` make run ```
+                make run
 To clean the folder from executables:
                 make clean
